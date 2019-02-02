@@ -1,8 +1,8 @@
-#The Skyline Problem
+# The Skyline Problem
 
 From a distance, the view of a collection of high-rise buildings reveals a profile. With sufficient simplifications, this observation turns into a problem called the skyline problem. The objective is to find the profile created by the roofs of the buildings. The simplifications are: All of the buildings are represented by rectangles and the profile is on 2D plane
 
-##data.txt
+## data.txt
 
 - This file holds information about rectangles. Each line is related with a rectangle. 
 - Fields are all integers
@@ -27,7 +27,7 @@ From a distance, the view of a collection of high-rise buildings reveals a profi
     2 3 19
     ```    
  
- ##Output
+ ## Output
  
  - List all the corners of the skyline in the standard output.
  - Make sure it is ordered. (i.e. when followed, creates a path of the skyline) 
